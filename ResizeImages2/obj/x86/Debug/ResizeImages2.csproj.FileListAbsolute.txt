@@ -1,0 +1,10 @@
+C:\Users\dan\Desktop\importantstuff\work\ResizeImages2\ResizeImages2\bin\Debug\ResizeImages2.exe
+C:\Users\dan\Desktop\importantstuff\work\ResizeImages2\ResizeImages2\bin\Debug\ResizeImages2.pdb
+C:\Users\dan\Desktop\importantstuff\work\ResizeImages2\ResizeImages2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\dan\Desktop\importantstuff\work\ResizeImages2\ResizeImages2\obj\x86\Debug\ResizeImages2.Form1.resources
+C:\Users\dan\Desktop\importantstuff\work\ResizeImages2\ResizeImages2\obj\x86\Debug\ResizeImages2.Properties.Resources.resources
+C:\Users\dan\Desktop\importantstuff\work\ResizeImages2\ResizeImages2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\dan\Desktop\importantstuff\work\ResizeImages2\ResizeImages2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\dan\Desktop\importantstuff\work\ResizeImages2\ResizeImages2\obj\x86\Debug\ResizeImages2.exe
+C:\Users\dan\Desktop\importantstuff\work\ResizeImages2\ResizeImages2\obj\x86\Debug\ResizeImages2.pdb
+C:\Users\dan\Desktop\importantstuff\work\ResizeImages2\ResizeImages2\bin\Debug\ResizeImages2.exe.config

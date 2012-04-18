@@ -1,0 +1,10 @@
+C:\Users\dan\Desktop\importantstuff\work\ResizeImagesRegKeys\ResizeImagesRegKeys\bin\Debug\ResizeImagesRegKeys.exe
+C:\Users\dan\Desktop\importantstuff\work\ResizeImagesRegKeys\ResizeImagesRegKeys\bin\Debug\ResizeImagesRegKeys.pdb
+C:\Users\dan\Desktop\importantstuff\work\ResizeImagesRegKeys\ResizeImagesRegKeys\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\dan\Desktop\importantstuff\work\ResizeImagesRegKeys\ResizeImagesRegKeys\obj\x86\Debug\ResizeImagesRegKeys.exe
+C:\Users\dan\Desktop\importantstuff\work\ResizeImagesRegKeys\ResizeImagesRegKeys\obj\x86\Debug\ResizeImagesRegKeys.pdb
+C:\Users\dan\Desktop\importantstuff\work\ResizeImages2\ResizeImagesRegKeys\ResizeImagesRegKeys\bin\Debug\ResizeImagesRegKeys.exe
+C:\Users\dan\Desktop\importantstuff\work\ResizeImages2\ResizeImagesRegKeys\ResizeImagesRegKeys\bin\Debug\ResizeImagesRegKeys.pdb
+C:\Users\dan\Desktop\importantstuff\work\ResizeImages2\ResizeImagesRegKeys\ResizeImagesRegKeys\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\dan\Desktop\importantstuff\work\ResizeImages2\ResizeImagesRegKeys\ResizeImagesRegKeys\obj\x86\Debug\ResizeImagesRegKeys.exe
+C:\Users\dan\Desktop\importantstuff\work\ResizeImages2\ResizeImagesRegKeys\ResizeImagesRegKeys\obj\x86\Debug\ResizeImagesRegKeys.pdb
